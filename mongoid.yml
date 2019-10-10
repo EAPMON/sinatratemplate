@@ -1,0 +1,7 @@
+development:
+  clients:
+    default:
+      database: prueba
+      hosts:
+        - localhost:27017
+
